@@ -33,7 +33,7 @@ Welcome to my corner of GitHub! I'm a passionate **developer**, **learner**, and
 ---
 
 ## 📞 **Let's Connect**
-- **Email**: [madhvipalai@example.com](mailto:madhvipalai@example.com)
+- **Email**: [](mailto:madhvipalai@example.com)
 - **LinkedIn**: [linkedin.com/in/madhvipalai](https://www.linkedin.com/in/madhvipalai)
 - **Twitter**: [@MadhviCode](https://twitter.com/MadhviCode) (Let’s talk tech!)
 
