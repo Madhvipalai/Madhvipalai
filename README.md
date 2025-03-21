@@ -33,9 +33,9 @@ Welcome to my corner of GitHub! I'm a passionate **developer**, **learner**, and
 ---
 
 ## 📞 **Let's Connect**
-- **Email**: [](mailto:madhvipalai@example.com)
-- **LinkedIn**: [linkedin.com/in/madhvipalai](https://www.linkedin.com/in/madhvipalai)
-- **Twitter**: [@MadhviCode](https://twitter.com/MadhviCode) (Let’s talk tech!)
+- **Email**: mmadhvi552@gmail.com
+- **LinkedIn**:[ [linkedin.com/in/madhvipalai](https://www.linkedin.com/in/madhvipalai)](https://www.linkedin.com/in/madhabi-palai-7007a4301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- **Twitter**: (https://x.com/madhvi796495275?s=21)
 
 ---
 
